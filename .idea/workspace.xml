@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbe4323c-d747-467c-8e14-a5c5b38e4a62" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front/src/views/index.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front/src/views/login.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front/src/views/regist.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front/src/views/writer.vue" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/front/src/components/Hello.vue" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/src/App.vue" afterPath="$PROJECT_DIR$/front/src/App.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/src/components/header.vue" afterPath="$PROJECT_DIR$/front/src/components/header.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/src/router/index.js" afterPath="$PROJECT_DIR$/front/src/router/index.js" />
     </list>
     <ignored path="easybook-git.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,8 +37,8 @@
       <file leaf-file-name="header.vue" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/front/src/components/header.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5882353">
-              <caret line="27" column="59" selection-start-line="27" selection-start-column="59" selection-end-line="27" selection-end-column="59" />
+            <state vertical-scroll-proportion="0.55727553">
+              <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
               <folding>
                 <element signature="n#style#0;n#i#0;n#b-nav-item#0;n#b-nav#0;n#b-collapse#0;n#div#0;n#div#0;n#b-navbar#0;n#template#0;n#!!top" expanded="true" />
                 <element signature="n#b-popover#0;n#b-nav#1;n#b-collapse#0;n#div#0;n#div#0;n#b-navbar#0;n#template#0;n#!!top" expanded="false" />
@@ -435,8 +427,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/front/src/components/header.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5882353">
-          <caret line="27" column="59" selection-start-line="27" selection-start-column="59" selection-end-line="27" selection-end-column="59" />
+        <state vertical-scroll-proportion="0.55727553">
+          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
           <folding>
             <element signature="n#style#0;n#i#0;n#b-nav-item#0;n#b-nav#0;n#b-collapse#0;n#div#0;n#div#0;n#b-navbar#0;n#template#0;n#!!top" expanded="true" />
             <element signature="n#b-popover#0;n#b-nav#1;n#b-collapse#0;n#div#0;n#div#0;n#b-navbar#0;n#template#0;n#!!top" expanded="false" />

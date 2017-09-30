@@ -13,13 +13,13 @@
       <div class="main-nav">
         <b-collapse is-nav id="nav_collapse">
           <b-nav is-nav-bar class="col-lg-10">
-            <b-nav-item href="#" class="mr-lg-4 active">
+            <b-nav-item href="#" class="ml-2 mr-lg-4 active">
               <i class="jian_iconfont jian-zhinanzhen font-weight-bold h5" style="vertical-align:middle"></i> 首页
             </b-nav-item>
             <b-nav-item href="#" class="mr-lg-4"><i class="jian_iconfont jian-shouji font-weight-bold h5" style="vertical-align:middle"></i> 下载App
             </b-nav-item>
             <b-nav-form>
-              <b-form-input size="sm" class="mr-sm-2" type="text" placeholder="Search"/>
+              <b-form-input size="sm" type="text" placeholder="Search"/>
               <b-button size="sm" class="my-sm-0" type="submit">搜索</b-button>
             </b-nav-form>
           </b-nav>
