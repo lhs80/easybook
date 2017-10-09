@@ -7,7 +7,7 @@
       <router-link to='/write'>
         <b-button variant="customer" class="mt-2 write-btn" type="button"><i class="jian_iconfont jian-shiliangzhinengduixiang9"></i> 写文章</b-button>
       </router-link>
-      <router-link to='/regist'>
+      <router-link to='/sign_up'>
         <b-button variant="outline-customer" class="mt-2 sign-up" type="button">注册</b-button>
       </router-link>
       <div class="main-nav">
@@ -53,7 +53,7 @@
                 <b-btn @click="onOk" size="sm" variant="primary">Ok</b-btn>
               </div>
             </b-popover>
-            <router-link to='/login'>
+            <router-link to='/sign_in'>
               <span class="c99 mt-2 float-right ml-3">登陆</span>
             </router-link>
           </b-nav>

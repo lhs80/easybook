@@ -6,6 +6,7 @@
       </b-btn>
       <b-btn variant="collection" style="padding:0 12px 0 10px;height:34px">{{list.name}}</b-btn>
     </b-button-group>
+    <router-link to="collections" target="_blank"><b-button variant="link" size="sm" class="c99">更多热门专题 ></b-button></router-link>
   </div>
 </template>
 <script>

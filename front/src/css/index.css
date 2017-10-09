@@ -1,6 +1,12 @@
 html,
 body {
+  width: 100%;
+  height: 100%;
   font-family: -apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;
+}
+#app {
+  width: 100%;
+  height: 100%;
 }
 .font12 {
   font-size: 12px;
@@ -73,6 +79,58 @@ body {
   border: solid 1px #ea6f5a;
   border-radius: 2px;
   padding: 0.1rem .5rem;
+}
+.sign {
+  width: 100%;
+  min-height: 750px;
+  height: 100%;
+  text-align: center;
+  background: #f1f1f1;
+}
+.sign .logo {
+  position: absolute;
+  top: 56px;
+  left: 50px;
+}
+.sign .logo img {
+  width: 100px;
+}
+.sign .main {
+  width: 400px;
+  margin: 150px auto 0;
+  padding: 50px 50px 30px;
+  background-color: #fff;
+  border-radius: 4px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+  display: inline-block;
+}
+.sign .title {
+  margin: 0 auto 50px;
+  padding: 10px;
+  font-weight: 400;
+  color: #969696;
+  font-size: 18px;
+}
+.sign .title a {
+  padding: 10px;
+  color: #969696;
+}
+.sign .title a:hover {
+  border-bottom: 2px solid #ea6f5a;
+}
+.sign .title .active {
+  font-weight: 700;
+  color: #ea6f5a;
+  border-bottom: 2px solid #ea6f5a;
+}
+.sign form {
+  margin-bottom: 30px;
+}
+.sign .more-sign {
+  margin-bottom: 30px;
+}
+.sign .more-sign a {
+  text-decoration: none;
 }
 footer .link a {
   font-size: 14px;
